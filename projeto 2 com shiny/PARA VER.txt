@@ -1,0 +1,4 @@
+source("ui.r")
+source("server.r")
+
+runApp()
